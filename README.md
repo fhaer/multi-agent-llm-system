@@ -1,2 +1,4 @@
-# multi-agent-llm-system
-Prototype for the specification and evaluation of Multi-Agent LLM Systems with Cybersecurity applications.
+# Multi-Agent LLM System
+Prototype for the specification and evaluation of multi-agent LLM systems with cybersecurity applications.
+
+Further details will be provided in a forthcoming publication currently under review.
